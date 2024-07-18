@@ -16,3 +16,4 @@ int main(){
     cout<<"The seconed largest number in the array is: "<<slargest;
 }
 
+// Better Solution
