@@ -9,7 +9,7 @@ int main() {
     return 0;
 }
 
-// Optimal Code
+// Optimal Solution
 #include <bits/stdc++.h>
 using namespace std;
 int main() {
