@@ -49,4 +49,4 @@ int main()
     return 0;
 }
 
-// Optimal Solution 
+// Optimal Solution (MOORE'S VOTING Algorithm)
